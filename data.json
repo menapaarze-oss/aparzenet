@@ -250,5 +250,12 @@
     "image": "images/ccbootcloud.jpg",
     "description": "برنامج سى سى بوت لادرارت السيبرات بدون هارد النسخة الكلاود بالكراك  ",
     "downloader": "https://www.mediafire.com/file/dm3ullkwt1qrt66/ccbootcloudsetup.rar/file"
+    },
+   {
+    "id": 37,
+    "title": "Pan Cafe Pro",
+    "image": "images/pancafe.png",
+    "description": "كراك تضعه داخل برنامج بان كافيه فى الكلاينت يمنع الاعلانات اللى على الجنب ",
+    "downloader": "https://www.mediafire.com/file/qtluzcf372xishw/pncclient_patched.zip/file"
     }
  ]
