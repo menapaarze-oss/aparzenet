@@ -257,5 +257,12 @@
     "image": "images/pancafe.png",
     "description": "كراك تضعه داخل برنامج بان كافيه فى الكلاينت يمنع الاعلانات اللى على الجنب",
     "downloader": "https://www.mediafire.com/file/qtluzcf372xishw/pncclient_patched.zip/file"
+  },
+  {
+    "id": 38,
+    "title": "GameLoop Update Control v2",
+    "image": "images/GameLoop Update Control v2.PNG",
+    "description": "اجبار المحاكى الجيم لوب عدم التعديث واسترجاع التحديث اذا اردت ",
+    "downloader": "https://www.mediafire.com/file/vu1xgfz9shli8gn/GameLoop+Update+Control+v2.rar/file"
   }
 ]
