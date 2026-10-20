@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Windows 10 Pro (Official ISO)",
+    "image": "images/windows10.png",
+    "description": "نسخة ويندوز 10 أصلية بصيغة ISO مباشرة من موقع Microsoft الرسمي.",
+    "downloader": "https://www.microsoft.com/ar-sa/software-download/windows10ISO"
+  },
+  {
+    "id": 2,
+    "title": "Windows 11 Pro (Official ISO)",
+    "image": "images/windows11.png",
+    "description": "أحدث إصدار من ويندوز 11 للأجهزة الداعمة من الموقع الرسمي.",
+    "downloader": "https://www.microsoft.com/ar-sa/software-download/windows11"
+  }
+]
