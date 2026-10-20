@@ -264,5 +264,12 @@
     "image": "images/GameLoop Update Control v2.PNG",
     "description": "اجبار المحاكى الجيم لوب عدم التعديث واسترجاع التحديث اذا اردت ",
     "downloader": "https://www.mediafire.com/file/vu1xgfz9shli8gn/GameLoop+Update+Control+v2.rar/file"
+  },
+  {
+    "id": 39,
+    "title": "kerio control",
+    "image": "kerio control.png",
+    "description": "السيستم الشهير بديل المايكرو تك الذى يحدد سرعات ويدمج خطوط وبحدد الخطوط ويتحكم فى النت بالكامل  ",
+    "downloader": "https://www.mediafire.com/file/nh772zxa0glju8f/kerio-control-installer-9.3.5-4367.iso/file"
   }
 ]
