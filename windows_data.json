@@ -14,10 +14,17 @@
     "downloader": "https://pixeldrain.com/u/ZdPxkVmH"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Win10_32bit_AnkhTech_V12.iso ",
     "image": "images/windows 10 ankha Teck.jpg",
     "description": "أحدث إصدار من ويندوز 10 للأجهزة العالية والضعيفة من انخا تك ومن مميزاتها وانت بتنزلها بتلقى فيها قبل السيطب كل البرامج اللى ممكن تحتجها بدون متنزل الويندوز تستخدمها زى اسطوانات المساعدة لحل المشاكل ",
     "downloader": "https://send.now/t2qqsghtyk1t"
+  },
+   {
+    "id": 4,
+    "title": " Win11_26H2_AnkhTech_V1.iso ",
+    "image": "images/windows 11 ankha Teck.jpg",
+    "description": "أحدث إصدار من ويندوز 11 للأجهزة العالية والضعيفة من انخا تك ومن مميزاتها وانت بتنزلها بتلقى فيها قبل السيطب كل البرامج اللى ممكن تحتجها بدون متنزل الويندوز تستخدمها زى اسطوانات المساعدة لحل المشاكل ",
+    "downloader": "https://send.now/7kgfelgcm2vp"
   }
 ]
