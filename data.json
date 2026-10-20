@@ -313,5 +313,12 @@
     "image": "images/برامج الالعاب.jpg",
     "description": "جميع برامج تشغيل الالعاب لتعمل بدون مشاكل ",
     "downloader": "https://www.mediafire.com/file/wbb4fd32k5568xs/Games_Supports.rar/file?action=check"
+  },
+   {
+    "id": 46,
+    "title": "PUBG Mobile IPADS",
+    "image": "images/مقاسات اى باد بابجى.jpg",
+    "description": "مقاسات IPad Pubg Mobile ",
+    "downloader": "https://www.mediafire.com/file/exev47uj03qr377/PUBG_Mobile_IPADS_.rar/file"
   }
 ]
