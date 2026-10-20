@@ -299,5 +299,12 @@
     "image": "images/OneClick Cleaner.webp",
     "description": " برنامج يمسحلك كل الملفات اللي ملهاش لازمه بديل كليك  ",
     "downloader": "https://www.mediafire.com/file/2qnrrc84ysbxian/OneClick_Cleaner_x86_64.exe/file"
+  },
+  {
+    "id": 44,
+    "title": "download manager full",
+    "image": "images/downlood.webp",
+    "description": "برنامج دون لود مفعل بالكراك ",
+    "downloader": "https://www.mediafire.com/file/to70421epuizgja/IDM642b58FULL.rar/file"
   }
 ]
