@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "لعبة مغامرات السرعة (PC)",
+    "image": "images/game1.png",
+    "description": "لعبة أكشن ومغامرات خفيفة تعمل بكفاءة عالية على أجهزة السيبر والكمبيوتر الضعيف.",
+    "downloader": "https://example.com/download-game1"
+  },
+  {
+    "id": 2,
+    "title": "لعبة كرة القدم الكلاسيكية",
+    "image": "images/game2.png",
+    "description": "لعبة ممتعة ومجانية للتحميل المباشر بروابط خارجية سريعة.",
+    "downloader": "https://example.com/download-game2"
+  }
+]
